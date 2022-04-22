@@ -44,25 +44,25 @@ public class Program
     }
 
     public static void Route(Node node, List<char> listofProjects)
+    {
+	node.visitStatus = visitStatus.Visiting;
+
+	foreach(var item in node.Adjacent)
 	{
-		node.visitStatus = visitStatus.Visiting;
-
-		foreach(var item in node.Adjacent)
-		{
-			if(item.visitStatus == visitStatus.Visiting)
-            {
+	   if(item.visitStatus == visitStatus.Visiting)
+           {
                 throw new Exception("There is no possible order!");
-            }
+           }
 				
-			if(item.visitStatus == visitStatus.Visited)
-            {
+	   if(item.visitStatus == visitStatus.Visited)
+           {
                 continue;
-            }
+           }
 				
-			Route(item, listofProjects);
-		}
-
-		node.visitStatus = visitStatus.Visited;
-		listofProjects.Add(node.Letter);
+	   Route(item, listofProjects);
 	}
+
+	   node.visitStatus = visitStatus.Visited;
+	   listofProjects.Add(node.Letter);
+    }
 }
