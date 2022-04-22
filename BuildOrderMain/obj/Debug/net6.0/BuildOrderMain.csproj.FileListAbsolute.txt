@@ -1,0 +1,15 @@
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\bin\Debug\net6.0\BuildOrderMain.exe
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\bin\Debug\net6.0\BuildOrderMain.deps.json
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\bin\Debug\net6.0\BuildOrderMain.runtimeconfig.json
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\bin\Debug\net6.0\BuildOrderMain.dll
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\bin\Debug\net6.0\ref\BuildOrderMain.dll
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\bin\Debug\net6.0\BuildOrderMain.pdb
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.csproj.AssemblyReference.cache
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.AssemblyInfoInputs.cache
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.AssemblyInfo.cs
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.csproj.CoreCompileInputs.cache
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.dll
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\ref\BuildOrderMain.dll
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.pdb
+C:\Users\nickc\Documents\BuildOrder\BuildOrderMain\obj\Debug\net6.0\BuildOrderMain.genruntimeconfig.cache
